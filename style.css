@@ -1,0 +1,60 @@
+body {
+
+}
+
+.shell  {
+	display: inline-block;
+	background-color: #EAE8E8;
+	margin: auto;
+	height: 300px;
+	width: 300px;
+	position: relative;
+}
+
+.towerBase {
+	height: auto;
+	width: 250px;
+	position: absolute;
+	bottom: 0;
+}
+
+#one {
+	width: 120px;
+}
+
+#two {
+	width: 160px;
+}
+
+#three {
+	width: 200px;
+}
+
+.block {
+	width: 40px;
+	height: 40px;
+	background-color: #A2A4E8;
+	border: 1px solid black;
+}
+
+#left {
+	text-align: -webkit-center;
+}
+
+#right {
+	text-align: -webkit-center;
+}
+
+#middle {
+	text-align: -webkit-center;
+}
+
+/*.one {
+	display:flex;
+	justify-content:center;
+	align-items:flex-end;
+}
+
+
+
+*/
